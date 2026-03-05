@@ -1,0 +1,1 @@
+insatl sqlite3 Viewer extension to see your .db files
